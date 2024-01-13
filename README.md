@@ -1,10 +1,4 @@
-# 图书馆管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**图书馆6** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 图书馆管理系统6
 
 ## 1、项目介绍
 
@@ -29,54 +23,55 @@
 - 数据库类型：MySql（5.x和8.x版本都可） 
 - 硬件环境：Windows 或者 Mac OS
 
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**图书馆**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 ## 4、功能介绍
 
 ### 4.1 登录注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111317931.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208111317931.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111317031.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202208111317031.jpg)
 
 ### 4.2 读者模块
 
-![用户-图书查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318012.jpg)
+![用户-图书查询](https://www.codeshop.fun/Typora-Images/202208111318012.jpg)
 
-![用户-借阅查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318013.jpg)
+![用户-借阅查询](https://www.codeshop.fun/Typora-Images/202208111318013.jpg)
 
-![用户-借阅历史](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318495.jpg)
+![用户-借阅历史](https://www.codeshop.fun/Typora-Images/202208111318495.jpg)
 
-![用户-问题反馈](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318386.jpg)
+![用户-问题反馈](https://www.codeshop.fun/Typora-Images/202208111318386.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-图书管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318074.jpg)
+![管理员-图书管理](https://www.codeshop.fun/Typora-Images/202208111318074.jpg)
 
-![管理员-读者管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318685.jpg)
+![管理员-读者管理](https://www.codeshop.fun/Typora-Images/202208111318685.jpg)
 
-![管理员-分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318988.jpg)
+![管理员-分类管理](https://www.codeshop.fun/Typora-Images/202208111318988.jpg)
 
-![管理员-借阅管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318520.jpg)
+![管理员-借阅管理](https://www.codeshop.fun/Typora-Images/202208111318520.jpg)
 
-![管理员-归还记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318312.jpg)
+![管理员-归还记录](https://www.codeshop.fun/Typora-Images/202208111318312.jpg)
 
-![管理员-热门推荐](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318230.jpg)
+![管理员-热门推荐](https://www.codeshop.fun/Typora-Images/202208111318230.jpg)
 
-![管理员-最佳读者 ](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318583.jpg)
+![管理员-最佳读者 ](https://www.codeshop.fun/Typora-Images/202208111318583.jpg)
 
-![管理员-管理员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318201.jpg)
+![管理员-管理员管理](https://www.codeshop.fun/Typora-Images/202208111318201.jpg)
 
-![管理员-反馈管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318170.jpg)
+![管理员-反馈管理](https://www.codeshop.fun/Typora-Images/202208111318170.jpg)
 
 ### 4.4 文档目录
 
-![文档](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111318432.jpg)
+![文档](https://www.codeshop.fun/Typora-Images/202208111318432.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**图书馆6** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**图书馆**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
